@@ -1,0 +1,44 @@
+body {
+    background-color: lightslategrey;
+    color:tan;
+    max-width: 900px;
+    margin:auto;
+}
+
+header {
+    margin: 35px 0;
+    font-size: 18px;
+    text-align: center;
+}
+
+a {
+    color:rgb(104, 66, 66) ;
+}
+
+h1 {
+    text-align: center;
+    font-size: 42px;
+    color: goldenrod
+}
+
+img {
+    src="https://tinyurl.com/4wrc377v" alt="Sturgil-band";
+    width: 40em;
+    display:block;
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-bottom: 75px;
+    margin-top: 75px;
+}
+
+p {
+    color:black;
+}
+
+li {
+    color: black;
+}
+
+footer {
+    text-align: center;
+}
